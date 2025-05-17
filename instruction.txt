@@ -41,6 +41,8 @@ link: https://www.npmjs.com/package/@uiw/react-md-editor
 
 
 
+here i use the neon for the database. its workbased on postgresql
+
 
 
 
